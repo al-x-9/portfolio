@@ -1,4 +1,4 @@
-# portfolio
-My temporary portfolio website :D
+# al_x_9's Portfolio
+My portfolio website!
 
-Will be updated soon!
+Currently under construction!
