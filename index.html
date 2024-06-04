@@ -17,13 +17,13 @@
     function enlargeImg() {
             img.style.transform = "scale(1.5)";
             img.style.transition = "transform 0.25s ease";
-        }
-        // Function to reset image size
-        function resetImg() {
-            // Set image size to original
-            img.style.transform = "scale(1)";
-            img.style.transition = "transform 0.25s ease";
-        }
+    }
+    // Function to reset image size
+    function resetImg() {
+        // Set image size to original
+        img.style.transform = "scale(1)";
+        img.style.transition = "transform 0.25s ease";
+    }
     </script>
     <!-- <link rel="icon" href="/images/Frog.png" type="image/x-icon"> -->
     <header class="masthead d-lg-flex justify-content-center align-items-center" id="navigation">
@@ -72,7 +72,8 @@
         <br>
         <div class="row"> 
           <div class="column">
-            <img src="images/STARNEMESIS_MORGANA.png" style="width:100%" class="img" onclick="enlargeImg()" onclick="resetImg()">      
+            <img src="images/STARNEMESIS_MORGANA.png" style="width:100%" class="img" onclick="enlargeImg()">
+            <button onclick="resetImg()">Reset</button>
             <img src="images/FLOWER CSP Entry.png" style="width:100%">
           </div>
           <div class="column">
