@@ -1,0 +1,82 @@
+<!-- var illustration/portfolio pieces-->
+
+<!--<section class="Portfolio full-screen d-lg-flex justify-content-center align-items-center" id="photography">
+      <div class="container">
+        <h2 class="mb-4">Photography</h2>
+        <br>
+        <div class="row"> 
+          <div class="column">
+            <img src="photography/DJI_0002.jpg" style="width:100%" class="img">
+            <img src="photography/DJI_0876.jpg" style="width:100%" class="img">
+            <img src="photography/DJI_0963.jpg" style="width:100%" class="img">
+            <img src="photography/DJI_0996.jpg" style="width:100%" class="img">
+          </div>
+          <div class="column">
+            <img src="photography/DJI_0004.jpg" style="width:100%" class="img">
+            <img src="photography/DJI_0880.jpg" style="width:100%" class="img">
+            <img src="photography/DJI_0974.jpg" style="width:100%" class="img">
+          </div>  
+          <div class="column">
+            <img src="photography/DJI_0006.jpg" style="width:100%" class="img">
+            <img src="photography/DJI_0883.jpg" style="width:100%" class="img">
+            <img src="photography/DJI_0985.jpg" style="width:100%" class="img">
+          </div>
+          <div class="column">
+            <img src="photography/DJI_0014.jpg" style="width:100%" class="img">
+            <img src="photography/DJI_0916.jpg" style="width:100%" class="img">
+            <img src="photography/DJI_0987.jpg" style="width:100%" class="img">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="Portfolio full-screen d-lg-flex justify-content-center align-items-center" id="traditional">
+      <div class="container">
+        <h2 class="mb-4">Traditional Media</h2>
+        <br>
+        <div class="row"> 
+          <div class="column">
+            <img src="photography/DJI_0002.jpg" style="width:100%" class="img">
+          </div>
+          <div class="column">
+            <img src="photography/DJI_0002.jpg" style="width:100%" class="img">
+          </div>  
+          <div class="column">
+            <img src="photography/DJI_0002.jpg" style="width:100%" class="img">    
+          </div>
+          <div class="column">
+            <img src="photography/DJI_0002.jpg" style="width:100%" class="img">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="Portfolio full-screen d-lg-flex justify-content-center align-items-center" id="sculpture">
+      <div class="container">
+        <h2 class="mb-4">Sculpture</h2>
+        <br>
+        <div class="row"> 
+          <div class="column">
+            <img src="traditionalmedia/metalkoi.jpg" style="width:100%"  class="img">  
+            <img src="traditionalmedia/cranes.jpg" style="width:100%"  class="img">        
+            <img src="traditionalmedia/cranes2.jpg" style="width:100%"  class="img">  
+          </div>
+          <div class="column">
+            <img src="traditionalmedia/leafbox.jpg" style="width:100%"  class="img">  
+            <img src="traditionalmedia/flowerlight.jpg" style="width:100%"  class="img">  
+            <img src="traditionalmedia/flowerlight2.jpg" style="width:100%"  class="img">  
+          </div>  
+          <div class="column">
+            <img src="traditionalmedia/TheThreeMeerkateers.jpg" style="width:100%"  class="img">  
+            <img src="traditionalmedia/wirebirdhands.jpg" style="width:100%"  class="img">  
+            <img src="traditionalmedia/wirebirdhands2.jpg" style="width:100%"  class="img">     
+          </div>
+          <div class="column">
+            <img src="traditionalmedia/wiredeer.jpg" style="width:100%"  class="img">  
+            <img src="traditionalmedia/wirepersonflower.jpg" style="width:100%"  class="img">  
+            <img src="traditionalmedia/wireviolin.jpg" style="width:100%"  class="img">  
+            <img src="traditionalmedia/wireviolin2.jpg" style="width:100%"  class="img">  
+          </div>
+        </div>
+      </div>
+    </section>-->
